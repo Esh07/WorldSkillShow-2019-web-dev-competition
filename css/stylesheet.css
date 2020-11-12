@@ -172,6 +172,8 @@ body{
 }
 nav{
   padding-top: 25px;
+  text-align: right;
+  max-width: 600px;
 }
 ul {
   list-style-type: none;
@@ -184,7 +186,7 @@ header {
 nav ul li{
   position: relative;
   display: inline;
-  padding: 5px 10px;
+  padding: 5px 0 5px 20px;
   margin: 5px;
 }
 
@@ -298,6 +300,7 @@ section.about {
   color: #666;
   font-family: 'Raleway', sans-serif;
   font-weight: 100;
+  font-size: 15px;
 }
 .about-text h3{
   font-size: 26px;
@@ -558,7 +561,7 @@ section .blog-article-list {
   color: #666;
   font-size: 15px;
 }
-.img-text-btn .btn{s
+.img-text-btn .btn{
   letter-spacing: 3px;
   font-family: 'Raleway', sans-serif;
   font-weight: 400;
