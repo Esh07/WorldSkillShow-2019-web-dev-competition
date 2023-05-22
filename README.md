@@ -2,7 +2,7 @@
 
 # World Skill Show 2019 - Practice for Web Development Competition
 
-Deployed website: https://esh07.github.io/wss-2019-web-dev-practice
+Deployed website: https://esh07.github.io/wss-2019-web-dev-comp-practice/
 
 <!-- import the header image from design folder  -->
 
