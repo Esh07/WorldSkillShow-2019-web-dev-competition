@@ -8,7 +8,7 @@ World Skill Show 2019 - Practice for Web Development Competition
 
 <!-- import the header image from design folder  -->
 
-![Header Image](design/Header-for-github-readme.png)
+![Header Image](/Design/Header-for-github-readme.png)
 
 The design of the website were handed out by the organizer and the task is to create a website based on the design.
 Design can be found in the `design` folder.
