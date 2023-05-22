@@ -1,6 +1,8 @@
-# wss-2019-web-dev-comp-practice
+<img src="https://www.oldham.ac.uk/wp-content/uploads/2021/11/worldskills_logo.png" width="auto" height="100" align="left"/>
 
-[![WorldSkillsUK Logo](https://www.oldham.ac.uk/wp-content/uploads/2021/11/worldskills_logo.png)](https://travis-ci.org/WorldSkills-Kazan-2019/wss-2019-web-dev-comp-practice)
+# World Skill Show 2019 - Practice for Web Development Competition
+
+I want to add logo here but smaller with placement on the right side of the header image.
 
 World Skill Show 2019 - Practice for Web Development Competition
 
