@@ -4,19 +4,15 @@
 
 ![Header Image](/Design/Header-for-github-readme.png)
 
-<center>
-Deployed website: https://esh07.github.io/wss-2019-web-dev-comp-practice/
-</center>
+## WorldSkillsShowUK 2019
 
-## WorldSkillsShowUK
-
-<!-- import the header image from design folder  -->
+<!-- import the header image from the design folder  -->
 
 In 2020, I participated in the WorldSkillsShowUK web development competition as a warm-up to practice my skills. The competition provided last year’s design and design guide just to practice before the actual competition. The design was provided by the WorldSkillsShowUK team.
 
 ## Design Guide
 
-Design can be found in the `design` folder.
+The design can be found in the `design` folder.
 
 ## Technologies
 
@@ -33,7 +29,7 @@ I also learned about CSS pseudo-classes and pseudo-elements, which I applied to 
 
 ### :star: Challenges and Solutions
 
-One of the challenges I faced while implementing the blog section of my project was controlling the behavior of pseudo-classes on parent and child elements. I wanted to create an effect where hovering over the parent element would remove the filter from the child image element and apply a box shadow to it. At the same time, I had to ensure that if the child button was not hovered over, it would remain unchanged. However, if the button was hovered over, it would change its background and text color and also apply a box shadow and filter removal to that section.
+One of the challenges I faced while implementing the blog section of my project was controlling the behavior of pseudo-classes on parent and child elements. I wanted to create an effect where hovering over the parent element would remove the filter from the child image element and apply a box shadow to it. At the same time, I had to ensure that if the child button was not hovered over, it would remain unchanged. However, if the button hovered over, it would change its background and text color and also apply a box shadow and filter removal to that section.
 
 This was challenging for me to understand and implement, but I was able to overcome it by using CSS `:hover` selectors on the parent element to apply styles to the child elements.
 
